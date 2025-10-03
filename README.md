@@ -22,9 +22,8 @@ The results demonstrate the strengths and weaknesses of different dimensionality
 ## Dataset
 
 - The dataset used is **Top Spotify Songs**.
-- **Source:** [Kaggle Spotify Top Songs Dataset](https://www.kaggle.com/datasets/your-dataset-link)  
+- **Source:** [Kaggle Spotify Top Songs Dataset]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019))  
   Download the CSV file from Kaggle and place it in your working directory or upload it to your environment.
-
 ---
 
 ## Usage
@@ -85,7 +84,11 @@ pip install -r requirements.txt
 - K-Means clustering on UMAP embeddings offers the most interpretable clusters.
 - Cluster feature summaries differentiate groups by musical characteristics, e.g., energetic/danceable vs. acoustic.
 
-- <img width="670" height="528" alt="image" src="https://github.com/user-attachments/assets/f5f2cb34-b726-4e1c-bfe9-9002c112c578" />
+  <img width="670" height="528" alt="image" src="https://github.com/user-attachments/assets/f5f2cb34-b726-4e1c-bfe9-9002c112c578" />
+  <img width="678" height="528" alt="image" src="https://github.com/user-attachments/assets/d8def213-f76c-472f-871e-21d7bc7acb90" />
+  <img width="667" height="528" alt="image" src="https://github.com/user-attachments/assets/dd2a88a1-02f1-45d9-b8a7-4e182e2ac100" />
+
+
 
 
 
